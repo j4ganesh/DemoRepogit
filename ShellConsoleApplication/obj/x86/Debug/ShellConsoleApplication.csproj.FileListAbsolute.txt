@@ -1,0 +1,5 @@
+C:\Users\jampalag\Desktop\ShellHellowWorld\ShellConsoleApplication\ShellConsoleApplication\bin\Debug\ShellConsoleApplication.exe
+C:\Users\jampalag\Desktop\ShellHellowWorld\ShellConsoleApplication\ShellConsoleApplication\bin\Debug\ShellConsoleApplication.pdb
+C:\Users\jampalag\Desktop\ShellHellowWorld\ShellConsoleApplication\ShellConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jampalag\Desktop\ShellHellowWorld\ShellConsoleApplication\ShellConsoleApplication\obj\x86\Debug\ShellConsoleApplication.exe
+C:\Users\jampalag\Desktop\ShellHellowWorld\ShellConsoleApplication\ShellConsoleApplication\obj\x86\Debug\ShellConsoleApplication.pdb
